@@ -1,0 +1,22 @@
+body {
+   background-color: #996060;
+   text-align: center;
+}
+ul {
+   list-style-position: inside;
+}
+ol {
+   list-style-position: inside;
+}
+
+.green-text {
+   color: #2AEDEA;
+   font-size: 30px;
+}
+
+.thin-green-border {
+   border-color: green;
+   border-width: 10px;
+   border-style: solid;
+   border-radius: 50%;
+}
